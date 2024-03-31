@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bridgers</title>
+    <style>
+        body {
+            f	ont-family: Arial, sans-serif;
+            background-color: #f0f7ff; /* Light blue background */
+            color: #333; /* Dark grey text */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff; /* Blue header */
+            color: #fff; /* White text */
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #007bff; /* Blue footer */
+            color: #fff; /* White text */
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Bridgers</h1>
+        <p>Matching job seekers with job offers</p>
+    </header>
+    <section>
+        <h2>About Bridgers</h2>
+        <p>Bridgers is a platform dedicated to connecting talented job seekers with exciting job opportunities. We strive to bridge the gap between employers and potential candidates, creating meaningful connections that lead to successful careers.</p>
+        <p>Our mission is to make the job search process efficient, transparent, and rewarding for both job seekers and employers.</p>
+    </section>
+    <section>
+        <h2>Services</h2>
+        <ul>
+            <li>Job matching algorithms</li>
+            <li>Resume building assistance</li>
+            <li>Interview preparation</li>
+            <li>Company insights and reviews</li>
+            <li>And much more!</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Bridgers - All rights reserved</p>
+    </footer>
+</body>
+</html>
+
